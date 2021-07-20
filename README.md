@@ -1,3 +1,5 @@
+My personal version of the AUI, mostly just a customized lilo.automode
+
 ### Project only accepting patches
 This project is not actively developed but *will* accept Pull Requests.
 
